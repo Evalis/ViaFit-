@@ -1,0 +1,39 @@
+
+
+.col > img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    
+}
+
+.team-box
+{
+    padding: 25px;
+    margin: 30px;
+    color: white;
+}
+
+.wirginia
+{
+    background-color: #C0B283;
+}
+
+.tanja
+{
+    background-color: #F4F4F4;
+    color: gray;
+}
+
+.eva
+{
+    background-color: #DCD0C0;
+}
+
+.valeriu
+{
+    background-color: #373737;
+}
